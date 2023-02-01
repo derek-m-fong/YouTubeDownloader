@@ -61,7 +61,7 @@ print(On_Red+"    \  / __ \/ / / // / / / / / __ \/ _ \   / / / / __ \ | /| / / 
 print(On_Red+"    / / /_/ / /_/ // / / /_/ / /_/ /  __/  / /_/ / /_/ / |/ |/ / / / / / /_/ / /_/ / /_/ /  __/ /      "+Color_Off)
 print(On_Red+"   /_/\____/\__,_//_/  \__,_/_.___/\___/  /_____/\____/|__/|__/_/ /_/_/\____/\__,_/\__,_/\___/_/       "+Color_Off)
 print(On_Red+"                                                                                                       "+Color_Off)
-print(On_Red+"   Created by Derek Matthew Fong  |  github.com/AltOption  |  2022  |  Version 1.0                     "+Color_Off)
+print(On_Red+"   Created by Derek Matthew Fong  |  github.com/derek-m-fong  |  2022  |  Version 1.0                     "+Color_Off)
 print(On_Red+"                                                                                                       "+Color_Off)      
 print(Color_Off)                                                                                                                                                                                                              
 print ("*******************************************************************************************************")
